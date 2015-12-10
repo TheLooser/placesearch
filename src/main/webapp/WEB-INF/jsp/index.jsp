@@ -66,15 +66,8 @@ top:3px;
 			</div>
 			<div class="col-xs-5"></div>
 		</div>
-		
-		
-		
-		
-		
-		
-		
-		
 		<div id="datashow" class="col-xs-12"></div>
+		<input type="hidden">
 		<div class="modal fade" id="light1" role="dialog">
 			<div class="modal-dialog modal-lg">
 
